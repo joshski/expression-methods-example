@@ -1,0 +1,9 @@
+{
+  "name": "expression-methods-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "cucumber": "^4.2.1"
+  }
+}
